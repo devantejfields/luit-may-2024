@@ -1,0 +1,18 @@
+len('Hello')
+
+print('Hello, World!')
+print('Python speaking!')
+
+print('Hello, World!', end='.')
+print('Python speaking!')
+
+
+first_name = 'Devante'
+print('Your first name is', first_name, 'Welcome!')
+
+
+first_name = 'Devante'
+print('Your first name is', first_name, 'Welcome!', sep='-')
+
+first_name = 'Devante'
+print('Your first name is', first_name, 'Welcome!', sep='-', end='.')
