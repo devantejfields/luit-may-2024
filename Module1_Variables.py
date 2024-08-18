@@ -1,3 +1,6 @@
-greeting = ('Hello, Friend!')
+greeting = 'Hello, friend!'
+print (greeting)
+
+greeting = 'Hi, everybody!'
 print(greeting)
 
