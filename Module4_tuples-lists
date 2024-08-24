@@ -5,4 +5,3 @@ capitals = [('London', 'UK', 8.98), ('Canberra', 'Australia', 0.4), ('Algiers', 
 for capital in capitals:
     print('Name:', capital[0], ', Country:', capital[1], ', Population:', capital[2])
 
-
